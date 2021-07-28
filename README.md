@@ -1,4 +1,5 @@
 # testApp
+Developed by Vignesh Balaji S
 A fully functional MCQs test taking app with user friendly interface packed with lots of useful features.
 Teacher login interface- password protected
 Student page to write test.
